@@ -29,8 +29,7 @@ func main() {
 ```
 
 ```
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis in dictum tortor.
-Morbi laoreet enim id sem euismod lobortis. Donec quam libero, bibendum non cursus vitae, dictum vel eros.
+Detter en test fo at se om dette virker
 ```
 
 [^1]: I am the footnote
